@@ -29,7 +29,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #473CBE;
+    color: #0000ff;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -75,7 +75,7 @@ html{
 }
 .inicio .contenido-banner img{
     margin-top: 40px;
-    border: 10px solid #473CBE;
+    border: 10px solid #0000ff;
     display: block;
     width: 80%;
     margin: auto;
@@ -104,7 +104,7 @@ html{
     transition: .3s;
 }
 .inicio .contenido-banner .redes a:hover{
-    background-color: #473CBE;
+    background-color: #0000ff;
 }
 .contenido{
     background-color: #37A8D4;
@@ -203,7 +203,7 @@ html{
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #473CBE;
+    background-color: #0000ff;
     z-index: -1;
     transition: 1s;
 }
@@ -261,7 +261,7 @@ footer .arriba{
     display: block;
     width: 50px;
     height: 50px;
-    background-color: #473CBE;
+    background-color: #0000ff;
     color: #fff;
     position: absolute;
     left: 50%;
