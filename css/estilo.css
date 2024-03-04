@@ -58,7 +58,7 @@ html{
 /* SECCION INICIO */
 .inicio{
     background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
-    url(img/fondo.jpg);
+    url(img/decoracion/fondo.jpg);
     background-size: cover;
     height: 100vh;
     color: #fff;
@@ -275,8 +275,9 @@ footer .arriba{
 .galeria__imagen{
     width: 325px;
     height: 300px;
+    margin-bottom: 1.5em;
     border: 0.4em solid;/*grosor del borde*/
-      border-color: #c3bebb;/*color de borde*/
+      border-color: #2008f4;/*color de borde*/
       border-radius: 1em / 0.5em;/*borde*/
       -webkit-box-shadow: 12px 17px 5px 0px rgba(0,0,0,0.75);/*sombra*/
     -moz-box-shadow: 12px 17px 5px 0px rgba(0,0,0,0.75);
